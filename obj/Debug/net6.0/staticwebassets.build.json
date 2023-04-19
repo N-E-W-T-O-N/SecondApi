@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iA1D2gmVIwrPg8G48Lv3dasfSr2Wh9rVWHUo9uIniR8=",
+  "Source": "SecondApi",
+  "BasePath": "_content/SecondApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

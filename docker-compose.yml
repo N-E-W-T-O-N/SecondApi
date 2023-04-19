@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  secondapi:
+    image: ${DOCKER_REGISTRY-}secondapi
+    build:
+      context: .
+      dockerfile: Dockerfile
